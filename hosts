@@ -1,0 +1,38 @@
+# default
+127.0.0.1 localhost
+
+119.161.14.17	www.flickr.com
+119.161.8.199 s.yimg.com
+209.73.190.11	api.flickr.com
+
+151.101.78.90 cdn.dribbble.com
+151.101.72.84 i.pinimg.com
+192.30.253.118 gist.github.com
+
+10.46.131.160 gitlab.gitlab
+
+127.0.0.1 l.oonnnoo.com
+192.168.31.199 pan.oonnnoo.com
+192.168.31.218 pan.httpbin.net
+
+202.91.32.56 ownsa.com
+
+114.67.230.54 api.oonnnoo.com
+47.52.240.125 deb.debian.org
+47.52.240.125 archive.ubuntu.com
+47.52.240.125 security.ubuntu.com
+47.52.240.125 dl-cdn.alpinelinux.org
+
+0.0.0.0 fonts.useso.com
+0.0.0.0 libs.useso.com
+0.0.0.0 account.jetbrains.com
+0.0.0.0 mackeeper.com
+0.0.0.0 www.mackeeper.com
+0.0.0.0 mackeeperapp.mackeeper.com
+0.0.0.0 macleaner.work
+0.0.0.0 macleaner.link
+0.0.0.0 media.trafficjunky.net
+0.0.0.0 media.trafficfactory.biz
+0.0.0.0 trustedmacleaner.click
+0.0.0.0 morefastermac.trade
+0.0.0.0 cdn.v2ex.co
